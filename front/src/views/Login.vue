@@ -2,7 +2,6 @@
 
     <article class="cont_1">
 
-        
         <div class="cont_2">
             <div class="logo_1"></div>
             <Login/>            
@@ -45,7 +44,6 @@ import Login from '../components/LoginComp.vue'
         .logo_1 {
             width: 200px;
             height: 100px;
-            /* background-color: blue; */
 
             position: absolute;
             top: 10px;
