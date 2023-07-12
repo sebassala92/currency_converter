@@ -9,4 +9,4 @@ Guia de inicio rapido
 
 3. Luego, ubicarse en la carpeta front y ejecutar el comando npm run dev.
 
-4. estos procesos deben realizarse en diferentes terminales.
+4. Estos procesos deben realizarse en diferentes terminales.
