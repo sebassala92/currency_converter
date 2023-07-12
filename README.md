@@ -1,6 +1,12 @@
 # currency_converter
 currency converter technical test
 
-Para iniciar el back-end de la aplicacion ejecutar el comando npm run devStart
+Guia de inicio rapido
 
-Para iniciar el front-end de la aplicacion ejecutar npm run dev
+1. Clonar ambas carpetas de manera local.
+
+2. En la maquina local ubicarse en la carpeta back y ejecutar el comando npm run devStart.
+
+3. Luego, ubicarse en la carpeta front y ejecutar el comando npm run dev.
+
+4. estos procesos deben realizarse en diferentes terminales.
